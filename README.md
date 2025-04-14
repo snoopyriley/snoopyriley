@@ -1,6 +1,6 @@
 ## Hey there! My name is Riley.
-- 🔭 **I’m currently working on:** HTML 101
-- 🌱 **I’m currently learning:** Java.
+- 🔭 **I’m currently working on:** Nothing
+- 🌱 **I’m currently learning:** JavaScript.
 - 📫 **How to reach me:** rileyasmith@proton.me
 - 😄 **Pronouns:** he/him/his
 
