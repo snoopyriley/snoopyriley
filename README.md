@@ -3,7 +3,7 @@
 building tools that help creators make more, faster.  
 curious about code, design, and how things work behind the scenes.  
 
-🌐 currently working on: [kite studio](https://github.com/snoopyriley/kite)  
+🌐 working on: [storyboard create](https://github.com/snoopyriley/kite) and [kite cli](https://github.com/snoopyriley/cli)  
 💡 currently learning javascript & web development fundamentals  
 📧 contact: [rileyasmith@proton.me](mailto:rileyasmith@proton.me)  
 
