@@ -1,8 +1,6 @@
 ## Hey there 👋 I’m Riley
 
-🎯 **Aspiring Developer & Creative Technologist**
-Passionate about blending creativity and technology — from front-end projects to full-stack ideas.
-
+I am a 16 year old developer and I have been very interested in programming since the beginning of high school. I've been working on small projects as part of school curriculums and pure enjoyment for CS. I am starting my Certificate IV in Information Technology (Programming) at North Metropolitan TAFE in Perth, Western Australia.
 ---
 
 ### 🚀 What I’m Working On
