@@ -1,4 +1,4 @@
-# riley 🧠  
+# riley smith 🧠  
 16 y/o developer & creator — studying certificate iv in information technology.  
 building tools that help creators make more, faster.  
 curious about code, design, and how things work behind the scenes.  
