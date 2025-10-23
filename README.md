@@ -3,8 +3,8 @@
 building tools that help creators make more, faster.  
 curious about code, design, and how things work behind the scenes.  
 
-🌐 [kite studio](https://github.com/snoopyriley/kite)  
-💡 currently learning javascript & web dev fundamentals  
+🌐 currently working on: [kite studio](https://github.com/snoopyriley/kite)  
+💡 currently learning javascript & web development fundamentals  
 📧 contact: [rileyasmith@proton.me](mailto:rileyasmith@proton.me)  
 
 > “build what you wish existed.”
