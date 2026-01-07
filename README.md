@@ -3,7 +3,7 @@
 building tools that help creators make more, faster.  
 curious about code, design, and how things work behind the scenes.  
 
-🌐 working on: [storyboard create](https://github.com/snoopyriley/kite) and [kite cli](https://github.com/snoopyriley/cli)  
+🌐 working on: my submission for the github x hack club flavortown
 💡 currently learning javascript & web development fundamentals  
 📧 contact: [snoopyriley@proton.me](mailto:snoopyriley@proton.me)  
 
