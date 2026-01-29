@@ -3,7 +3,7 @@
 building tools that help creators make more, faster.  
 curious about code, design, and how things work behind the scenes.  
 
-🌐 working on: my submission for the github x hack club flavortown
+🌐 working on: migrating [tropicaljuice.me](https://tropicaljuice.me) to [ri1ey.com](https://ri1ey.com)
 💡 currently learning javascript & web development fundamentals  
 📧 contact: [snoopyriley@proton.me](mailto:snoopyriley@proton.me)  
 
