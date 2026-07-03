@@ -3,8 +3,10 @@
 building tools that help creators make more, faster.  
 curious about code, design, and how things work behind the scenes.  
 
-🌐 working on: hosting and updating [riskroll online](https://ri1ey.com/riskroll) 
+🌐 working on: hosting and updating [riskroll online](https://ri1ey.com/riskroll)
 
-📧 contact: [snoopyriley@proton.me](mailto:snoopyriley@proton.me)  
+📧 contact: [hi@ri1ey.com](mailto:hi@ri1ey.com)
+
+
 
 > “build what you wish existed.”
