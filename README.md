@@ -4,6 +4,8 @@ building tools that help creators make more, faster.
 curious about code, design, and how things work behind the scenes.  
 
 🌐 working on: [tropical-juice](https://github.com/rileycodesalot/tropical-juice)
-📧 contact: [hi@ri1ey.com](mailto:hi@ri1ey.com)
+📧 contact via. [email](mailto:hi@ri1ey.com)*
+
+*commits, edits and merges are linked to 105462719+rileycodesalot@users.noreply.github.com
 
 > “build what you wish existed.”
