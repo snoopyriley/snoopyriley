@@ -1,14 +1,12 @@
-# riley (rileycodesalot) 🧠
-fka. snoopyriley
+**riley (rileycodesalot) 🌿 formally known as snoopyriley**
 
-17 y/o developer & creator  
-building tools that help creators make more, faster.  
-curious about code, design, and how things work behind the scenes.  
+17 y/o developer & creator based in western australia. \
+building tools that help creators make more, faster. \
+curious about code, design, and developing clean interfaces.  
 
-🌐 working on: [tropical-juice](https://github.com/rileycodesalot/tropical-juice)
-📧 contact via. [email](mailto:hi@ri1ey.com)*
+🌱 currently building: [rileycodesalot/tropical-juice](https://github.com/rileycodesalot/tropical-juice) \
+📂 notable projects: *none listed* \
+📧 get in contact via. [hi@ri1ey.com](mailto:hi@ri1ey.com)
 
-NOTE: commits, edits and merges are linked to 105462719+rileycodesalot@users.noreply.github.com
-this is NOT a contact email, but a private email for web-based and command line Git operations.
-
-> “build what you wish existed.”
+NOTE: Commits, edits and merges are linked to 105462719+rileycodesalot@users.noreply.github.com. \
+This should **not** be used a contact email, as it is a private email for web-based and command line Git operations.
