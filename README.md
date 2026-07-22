@@ -1,4 +1,6 @@
-# riley (snoopyriley) 🧠  
+# riley (rileycodesalot) 🧠
+fka. snoopyriley
+
 17 y/o developer & creator  
 building tools that help creators make more, faster.  
 curious about code, design, and how things work behind the scenes.  
